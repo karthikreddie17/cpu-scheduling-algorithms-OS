@@ -4,13 +4,12 @@
     font-size: 17px;
 }
 body {
-    background-color:#FAFAD2;
+    background-color:	#DCDCDC;
   }
 .instructions {
     font-size: 14px;
     margin: 10px 20px;
 }
-
 @media (max-width:629px) {
   img#hp {
     display: none;
